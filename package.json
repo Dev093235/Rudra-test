@@ -1,11 +1,11 @@
 {
-  "name": "fb-personal-bot",
+  "name": "fb-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "fca-unofficial": "^1.6.4"
+    "fca-unofficial": "latest"
   }
 }
