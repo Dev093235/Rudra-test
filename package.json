@@ -1,11 +1,14 @@
 {
-  "name": "fb-bot",
+  "name": "rudra-bot",
   "version": "1.0.0",
+  "description": "Facebook Messenger Bot using fca-horizon-remake",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "author": "Rudra",
+  "license": "MIT",
   "dependencies": {
-    "fca-unofficial": "latest"
+    "fca-horizon-remake": "latest"
   }
 }
